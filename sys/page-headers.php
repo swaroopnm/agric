@@ -1,6 +1,6 @@
 <nav id="sidebar">
     <div class="sidebar-header">
-        <h6>The AgriEase systems</h6>
+        <h6>AgriEase systems</h6>
     </div>
 
     <ul class="list-unstyled components">
