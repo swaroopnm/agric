@@ -36,7 +36,7 @@
       <div class="card-counter warning">
         <i class="fa fa-user-circle-o"></i>
         <span class="count-numbers"><?php echo $sammac;?></span>
-        <span class="count-name">Farmers</span>
+        <span class="count-name">The Farmers</span>
       </div>
     </div>
  <div class="col-md-3">
