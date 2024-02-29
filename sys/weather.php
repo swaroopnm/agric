@@ -73,7 +73,7 @@ $forecast = $data->results->seven_day_forecast;
               <?php echo $current->description;?>
             </p>
             <div class="weather-icon">
-              <p><strong>Wind Speed : </strong><?php echo $current->windspeed;?> <?php echo $current->windspeed_unit;?></p>
+              <p><strong>New Wind Speed : </strong><?php echo $current->windspeed;?> <?php echo $current->windspeed_unit;?></p>
               <p><strong>Pressue : </strong><?php echo $current->pressure;?> <?php echo $current->pressure_unit;?></p>
               <p><strong>Visibility : </strong><?php echo $current->visibility;?> <?php echo $current->visibility_unit;?></p>
             </div>
